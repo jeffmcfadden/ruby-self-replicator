@@ -1,0 +1,3 @@
+# Ruby Self Replicator
+
+Every time you run this program it generates a new program with a randomized name. If you run _that_ program, it too will replicate itself to a randomized filename.
